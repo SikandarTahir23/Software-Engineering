@@ -15,7 +15,7 @@ const About = () => {
 			<p>
 				As a software engineer and <strong>web and chatbot developer</strong>, I bring a rich blend of technical expertise and innovative problem-solving skills to every project. 
 				My experience spans <strong>front-end development</strong>, <strong>generative AI</strong>, and <strong>LLM projects</strong>, where I specialize in creating seamless user experiences and efficient solutions. 
-				I am proficient in technologies like <strong>HTML, CSS, JavaScript, TypeScript, Node.js, Express.js, Tailwind, React.js, and Next.js</strong>, and I have hands-on expertise in chatbot development using <strong>Dialogflow, Kommunicate, and Flowise AI</strong>.
+				I am proficient in technologies like <strong>HTML, CSS,TailwindCSS ,  JavaScript, TypeScript, Node.js, Express.js, Tailwind, React.js, and Next.js</strong>, and I have hands-on expertise in chatbot development using <strong>Dialogflow, Kommunicate, and Flowise AI</strong>.
 			</p>
 			<p>
 				Beyond coding, I am passionate about continuously learning and exploring cutting-edge tools to stay ahead in the tech world. Whether it's building innovative projects or diving into new frameworks, I thrive on pushing boundaries and delivering exceptional results.

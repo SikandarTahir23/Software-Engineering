@@ -63,7 +63,7 @@ const INFO = {
 			linkText1: "GitHub",
 			link1: "https://github.com/SikandarTahir23",
             linkText2: "Live",
-			link2: "https://sikandar-folio.vercel.app/"
+			link2: "https://sikandar-folio.vercel.app/",
 		},
 
 		{
